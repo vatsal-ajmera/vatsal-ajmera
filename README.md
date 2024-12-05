@@ -1,4 +1,4 @@
-<h1 align="center"><b> Welcome! 👋 I’m a Full-Stack Web Developer Passionate About Building Powerful Web Solutions 💻 </b></h1>
+<h1 align="center"><b> Hi! 👋 I’m a Full-Stack Web Developer Passionate About Building Powerful Web Solutions 💻 </b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Laravel+Artisan;React+Wizard;Node+Ninja"></a>
